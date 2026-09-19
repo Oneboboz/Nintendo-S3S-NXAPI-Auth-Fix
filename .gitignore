@@ -1,0 +1,8 @@
+# Local authentication and runtime data
+config.txt
+persist/
+*.log
+.env
+
+# Generated local data
+gear_*.json
